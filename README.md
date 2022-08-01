@@ -1,3 +1,5 @@
-new1game.github.io
+ermagame.github.io
 
-Yoyes Technology Co., Ltd.
+Ermagame Technology Co., Ltd.
+
+E-Mail:ermagame@protonmail.com
